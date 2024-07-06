@@ -16,3 +16,6 @@ The docs are [here](https://github.com/DevYukine/red_oxide?tab=readme-ov-file#co
 For Unraid:
 - Extra Parameters: `--user 99:100`
 - Post Arguments: `"/app/redcurry.rb /path/to/folder/with/.torrent/files SOURCE TARGET"` (yes, with double quotes)
+- Or Post Arguments: `"/app/redcurry.rb 'https://url-to-torrent-permalink' SOURCE TARGET"` (yes, with double quotes)
+
+![unraidconfig](docs/unraid.png)
