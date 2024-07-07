@@ -11,7 +11,7 @@ docker run ghcr.io/schaka/redcurry-dockerlatest "/app/redcurry.rb /path/to/folde
 
 ### Config file
 `$HOME` is mapped to `/config`. You can just place the `curry.yaml` file into whatever folder you choose to map to `/config` inside the container.
-The docs are [here](https://github.com/DevYukine/red_oxide?tab=readme-ov-file#config-file).
+The docs are [here](https://gitlab.com/_mclovin/redcurry#install).
 
 For Unraid:
 - Extra Parameters: `--user 99:100`
